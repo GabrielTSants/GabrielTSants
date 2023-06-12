@@ -4,7 +4,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTSants&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=GabrielTSants&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielTSants&theme=dark&hide_border=false)<br/>
 ![gif animation](https://i.gifer.com/origin/4c/4cc1933d92c2c59e9d473a0bfe257271.gif)
 
 
